@@ -7,6 +7,7 @@
 
 #5 Song927
 
-#6 retest
+#6-1 retest : 6라인 편집
 
 #7 merge pull push
+##1. 7-1 commit by yodo
